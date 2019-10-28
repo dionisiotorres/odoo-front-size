@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <template id="assets_backend" name="For Font size" inherit_id="web.assets_backend">
+        <xpath expr=".">
+            <link rel="stylesheet" href="/custom_changes_purchase/static/src/css/fonts.scss"
+                  />          
+        </xpath>
+    </template>
+</odoo>

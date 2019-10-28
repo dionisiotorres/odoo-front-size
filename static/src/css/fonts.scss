@@ -1,0 +1,76 @@
+//main nav bar
+.o_main_navbar
+{
+	font-size: 1.6rem;
+}
+*::before {
+	font-size: 1.6rem;
+}
+
+*::after {
+	font-size: 1.6rem;
+}
+// all buttons
+.btn
+	{
+	font-size: 1.45rem;
+}
+//for  status button
+button
+	{
+	font-size: 1.45rem;
+}
+//All Hyper links
+a{
+	font-size: 1.5rem;
+}
+span
+{
+	font-size: 1.45rem;	
+}
+//for kanban view braces
+small {
+    font-size: 1.45rem;
+}
+// for kanban view lables
+li{
+   font-size: 1.45rem; 
+}
+
+
+// for Kanban details
+.o_text_overflow {
+    display: table-caption;
+    max-width: 225px;
+    white-space: pre-wrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: top;
+    font-size: 1.3rem;
+    font-size: 1.3rem !important;
+    width: 90%;
+}
+.oe_kanban_details {
+    width: 200px;
+    display: block;
+    word-break: inherit;
+    }
+ 
+ // for Unique in without web_responsive Module
+.o_content
+ {
+ font-size: 1.6rem;
+}
+.o_mail_thread
+ {
+ font-size: 1.6rem;
+}
+
+// for oe_chatter mail 
+
+p {
+    font-size: 1.45rem;
+}
+.title {
+    font-size: 1.9rem;
+}
